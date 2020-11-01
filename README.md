@@ -8,4 +8,4 @@ A Data Science enthusiast with passion to solve problems and to make things. Pro
 
 - 🌱  I am currently looking to collaborate on Data Science Projects
 
-<a href = https://www.linkedin.com/in/https://www.linkedin.com/in/nisargtrivedi1112/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/https://github.com/Nisarg1112><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+<a href = https://www.linkedin.com/in/nisargtrivedi1112/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Nisarg1112><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
