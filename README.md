@@ -2,7 +2,7 @@
 ### About me 🤓
 A Data Science enthusiast with passion to solve problems and to make things. Proven skills in Python, Arduino IDE, Raspberry Pi, Machine Learning with work experience in various organizations and technical teams and I believe that I am a versatile and quick learner and can get going with any sort of work.
 
-**Skills:** Python | Data Science | Machine Learning | Web-automation
+**Skills:** Python | Django | Data Science | Machine Learning | Web-automation 
 
 - ✍️ I am currently learning advanced Ml alogrithms, deployment of model through Djang, Flask, Kubernetes and Dockers
 
