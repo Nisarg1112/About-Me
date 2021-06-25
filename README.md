@@ -20,6 +20,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **Jobs as Python Developer**
+- 💬 𝚃𝚊𝚕𝚔 𝚝𝚘 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙲𝚛𝚒𝚌𝚔𝚎𝚝, 𝙿𝚢𝚝𝚑𝚘𝚗** (𝚋𝚘𝚝𝚑 𝚘𝚏 𝚝𝚑𝚎𝚜𝚎 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚒𝚗𝚜𝚎𝚌𝚝 𝚘𝚛 𝚊𝚗𝚒𝚖𝚊𝚕𝚜), **𝚂𝚒𝚕𝚒𝚌𝚘𝚗 𝚅𝚊𝚕𝚕𝚎𝚢 & 𝚂𝚝𝚊𝚛𝚝𝚞𝚙𝚜**
 - ⚡ 𝙼𝚘𝚝𝚝𝚘 : **𝙴𝚊𝚝, 𝙻𝚎𝚊𝚛𝚗, 𝙲𝚘𝚍𝚎, 𝚂𝚕𝚎𝚎𝚙, 𝚁𝚎𝚙𝚎𝚊𝚝**
 
 <br/>
@@ -121,8 +122,34 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg"/></code>
+  </a>
+
+  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/></code>
+  </a>
+
+  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/></code>
+  </a>
+
+  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg"/></code>
+  </a>
+</p>
+
 <!--<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
  # 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝙿𝚕𝚊𝚢𝚒𝚗𝚐 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3152zhpbol54hoiay3pdkou6dgwq) -->
+<!-- <a href="https://iconscout.com/icons/leetcode" target="_blank">Leetcode Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">Iconscout</a> -->
