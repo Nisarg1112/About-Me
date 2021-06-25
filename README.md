@@ -1,11 +1,106 @@
-# Hey 👋, This is Nisarg Trivedi
-### About me 🤓
-A Data Science enthusiast with passion to solve problems and to make things. Proven skills in Python, Arduino IDE, Raspberry Pi, Machine Learning with work experience in various organizations and technical teams and I believe that I am a versatile and quick learner and can get going with any sort of work.
+<h1 align="center">
+  <a target="_blank">
+    <img src="Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 /&gt, 𝙸'𝚖 𝙽𝚒𝚜𝚊𝚛𝚐!
+  <a target="_blank">
+    <img src="Hi.gif" width="40px" />
+  </a>
+  <br>
+  <h3>𝙰𝚗 𝙰𝚜𝚝𝚛𝚘𝚙𝚑𝚒𝚕𝚎, 𝙰 𝙻𝚎𝚊𝚛𝚗𝚎𝚛, 𝙰 𝙿𝚢𝚝𝚑𝚘𝚗𝚎𝚎𝚛, 𝙰 𝙳𝚊𝚝𝚊-𝙳𝚒𝚐𝚐𝚎𝚛, 𝙰 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚎𝚛, 𝙰 𝙽𝚒𝚐𝚑𝚝 𝙾𝚠𝚕, 𝙰 𝙼𝚞𝚜𝚒𝚌-𝙻𝚘𝚟𝚎𝚛, 𝙰 𝚏𝚘𝚘𝚍𝚒𝚎.</h3>
+</h1>
 
-**Skills:** Python | Django | Data Science | Machine Learning | Web-automation 
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="image.gif">
+</a>
 
-- ✍️ I am currently learning advanced Ml alogrithms, deployment of model through Djang, Flask, Kubernetes and Dockers
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **Jobs as Python Developer**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
+- 𝙼𝚘𝚝𝚝𝚘 : **𝙴𝚊𝚝, 𝙻𝚎𝚊𝚛𝚗, 𝙲𝚘𝚍𝚎, 𝚂𝚕𝚎𝚎𝚙, 𝚁𝚎𝚙𝚎𝚊𝚝**
 
-- 🌱  I am currently looking to collaborate on Data Science Projects
+<br/>
+<br/>
 
-<a href = https://www.linkedin.com/in/nisargtrivedi1112/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Nisarg1112><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Nisarg1112&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-20-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
+</p>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Nisarg1112}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg1112&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisarg1112&show_icons=true" alt="akhilgkrishnan" /></p>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nisarg1112&repo=Django-Ecommerce-Website&countColorcountColor&countColor=%237B1E7B"/>
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg1112&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="right.png">
+  </a>
+</p>
+
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="github.gif"></a>
+<br/>
+
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<br/>
+<br/>
+
+# Languages or Tools I am using / Most familiar with :
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt='AWS'></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt='digitalocean'></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
+<code><img height="40" width="40" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="numpy"></code>
+<code><img height="40" width="40" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn"></code>
+
+<!-- https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg -->
+
+# - Languages or Tools I am learning right now :
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
+
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" alt="jenkins"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis"></code>
+<br/>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3152zhpbol54hoiay3pdkou6dgwq)
