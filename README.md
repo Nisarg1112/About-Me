@@ -7,44 +7,46 @@
     <img src="Hi.gif" width="40px" />
   </a>
   <br>
-  <h3>𝙰𝚗 𝙰𝚜𝚝𝚛𝚘𝚙𝚑𝚒𝚕𝚎, 𝙰 𝙻𝚎𝚊𝚛𝚗𝚎𝚛, 𝙰 𝙿𝚢𝚝𝚑𝚘𝚗𝚎𝚎𝚛, 𝙰 𝙳𝚊𝚝𝚊-𝙳𝚒𝚐𝚐𝚎𝚛, 𝙰 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚎𝚛, 𝙰 𝙽𝚒𝚐𝚑𝚝 𝙾𝚠𝚕, 𝙰 𝙼𝚞𝚜𝚒𝚌-𝙻𝚘𝚟𝚎𝚛, 𝙰 𝚏𝚘𝚘𝚍𝚒𝚎.</h3>
+  <h3 align='center'>𝙰𝚗 𝙰𝚜𝚝𝚛𝚘𝚙𝚑𝚒𝚕𝚎, 𝙰 𝙻𝚎𝚊𝚛𝚗𝚎𝚛, 𝙰 𝙿𝚢𝚝𝚑𝚘𝚗𝚎𝚎𝚛, 𝙰 𝙳𝚊𝚝𝚊-𝙳𝚒𝚐𝚐𝚎𝚛, 𝙰 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚎𝚛,<br> 𝙰 𝙽𝚒𝚐𝚑𝚝 𝙾𝚠𝚕, 𝙰 𝙼𝚞𝚜𝚒𝚌-𝙻𝚘𝚟𝚎𝚛, 𝙰 𝚏𝚘𝚘𝚍𝚒𝚎.</h3>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="image.gif">
+  <img align="right" height="235" width="400" alt="GIF" src="image.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **Jobs as Python Developer**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-- 𝙼𝚘𝚝𝚝𝚘 : **𝙴𝚊𝚝, 𝙻𝚎𝚊𝚛𝚗, 𝙲𝚘𝚍𝚎, 𝚂𝚕𝚎𝚎𝚙, 𝚁𝚎𝚙𝚎𝚊𝚝**
+- ⚡ 𝙼𝚘𝚝𝚝𝚘 : **𝙴𝚊𝚝, 𝙻𝚎𝚊𝚛𝚗, 𝙲𝚘𝚍𝚎, 𝚂𝚕𝚎𝚎𝚙, 𝚁𝚎𝚙𝚎𝚊𝚝**
 
 <br/>
 <br/>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Nisarg1112&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nisarg1112&color=brightgreen" alt="watching_count" />
+  
 <img src="https://img.shields.io/badge/Age-20-blue" />
+  
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  
   <img src="https://img.shields.io/badge/Lives-India-success" />
+  
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
+  
 </p>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Nisarg1112}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg1112&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg1112&layout=compact&hide=html" alt="akhilgkrishnan" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisarg1112&show_icons=true" alt="akhilgkrishnan" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisarg1112&show_icons=true" alt="akhilgkrishnan" /></p>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nisarg1112&repo=Django-Ecommerce-Website&countColorcountColor&countColor=%237B1E7B"/>
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nisarg1112&repo=Django-Ecommerce-Website&countColorcountColor&countColor=%237B1E7B"/> -->
+
+
 
 <p align="center">
   <a>
@@ -54,41 +56,35 @@
   </a>
 </p>
 
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="github.gif"></a>
-<br/>
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
 
-# Languages or Tools I am using / Most familiar with :
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt='AWS'></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt='digitalocean'></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
-<code><img height="40" width="40" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="numpy"></code>
-<code><img height="40" width="40" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn"></code>
-
+**Languages or Tools I am using / Most familiar with :** <br>
+<br>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt='AWS'></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt='digitalocean'></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow"></code>
+<code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
+<code><img height="50" width="50" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="numpy"></code>
+<code><img height="50" width="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas"></code>
+<code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn"></code>
 <!-- https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg -->
-
-# - Languages or Tools I am learning right now :
+**Languages or Tools I am learning right now :**<br>
+<br>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
-
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" alt="jenkins"></code>
