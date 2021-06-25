@@ -4,14 +4,14 @@
   </a>
   &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 /&gt, 𝙸'𝚖 𝙽𝚒𝚜𝚊𝚛𝚐!
   <a target="_blank">
-    <img src="Hi.gif" width="40px" />
+    <img src="Hi.gif" width="45px" />
   </a>
   <br>
   <h3 align='center'>𝙰𝚗 𝙰𝚜𝚝𝚛𝚘𝚙𝚑𝚒𝚕𝚎, 𝙰 𝙻𝚎𝚊𝚛𝚗𝚎𝚛, 𝙰 𝙿𝚢𝚝𝚑𝚘𝚗𝚎𝚎𝚛, 𝙰 𝙳𝚊𝚝𝚊-𝙳𝚒𝚐𝚐𝚎𝚛, 𝙰 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚎𝚛,<br> 𝙰 𝙽𝚒𝚐𝚑𝚝 𝙾𝚠𝚕, 𝙰 𝙼𝚞𝚜𝚒𝚌-𝙻𝚘𝚟𝚎𝚛, 𝙰 𝙵𝚘𝚘𝚍𝚒𝚎</h3>
 </h1>
 
-<br/>
-<br/>
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="45" /> About Me
 <a target="_blank">
   <img align="right" height="235" width="400" alt="GIF" src="image.gif">
 </a>
@@ -130,21 +130,41 @@ No Activity tracked this Week
 </h1>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg"/></code>
+  <a href="mailto:nisargtrivedi054@gmail.com" target="_blank">
+    <code><img height="50" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg"/></code>
   </a>
+  &nbsp
 
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/></code>
+  <a href="https://www.linkedin.com/in/nisargtrivedi1112/" target="_blank">
+    <code><img height="50" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/></code>
   </a>
+  &nbsp
 
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/></code>
+  <a href="https://www.instagram.com/mr.nisu85/" target="_blank">
+    <code><img height="50" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/></code>
   </a>
+  &nbsp
 
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg"/></code>
+  <a href="https://t.me/Nisarg1112" target="_blank">
+    <code><img height="50" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg"/></code>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/nisargtrivedi054/" target="_blank">
+    <code><img height="50" width="50" src="leetcode (1).svg"/></code>
+  </a>
+  &nbsp
+  
+  <a href="https://auth.geeksforgeeks.org/user/nisargtrivedi054/practice/" target="_blank">
+    <code><img height="50" width="50" src="geeksforgeeks.svg"/></code>
+  </a>
+  &nbsp
+  
+  <a href="https://www.codechef.com/users/nisu_85" target="_blank">
+    <code><img height="50" width="50" src="codechef.svg"/></code>
+  </a>
+  &nbsp
 </p>
 
 <!--<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
