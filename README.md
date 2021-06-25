@@ -64,10 +64,8 @@
 <!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nisarg1112&repo=Django-Ecommerce-Website&countColorcountColor&countColor=%237B1E7B"/> -->
 
 <p align="center">
-  <a>
-    <img height="150" width="175" src="left.png">
+  <a>    
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg1112&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="right.png">
   </a>
 </p>
 <br>
