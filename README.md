@@ -118,7 +118,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-699343%20lines%20of%20code-blue)
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
