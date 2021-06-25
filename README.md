@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="Earth.gif" width="24px" style="max-width:100%;">
+    <img src="tenor.gif" width="45px" style="max-width:100%;">
   </a>
   &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 /&gt, 𝙸'𝚖 𝙽𝚒𝚜𝚊𝚛𝚐!
   <a target="_blank">
@@ -47,7 +47,7 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary> -->
 
-# 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :
+# <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="45" /> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :
 
 <p align="center">
   <a href="https://github.com/Nisarg1112">
@@ -71,10 +71,10 @@
 </p>
 <br>
 
-# 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 : 
+# <img alt="GIF" src="https://tenor.com/view/on-process-dig-put-pressure-equipment-household-tools-gif-4501065825736383176.gif" width="60"/> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜: 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="380px" height="380px"/>
 
-**𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚘𝚛 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚊𝚖 𝚞𝚜𝚒𝚗𝚐 / 𝙼𝚘𝚜𝚝 𝚏𝚊𝚖𝚒𝚕𝚒𝚊𝚛 𝚠𝚒𝚝𝚑 :** <br>
+**⚡️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚘𝚛 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚊𝚖 𝚞𝚜𝚒𝚗𝚐 / 𝙼𝚘𝚜𝚝 𝚏𝚊𝚖𝚒𝚕𝚒𝚊𝚛 𝚠𝚒𝚝𝚑 :** <br>
 <br>
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
@@ -100,7 +100,7 @@
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm"></code>
 <!-- https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg -->
 
-**𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚘𝚛 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚊𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠 :**<br>
+**⚡️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚘𝚛 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚊𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠 :**<br>
 <br>
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js"></code>
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
