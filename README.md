@@ -41,10 +41,6 @@
 - ⚡ 𝙼𝚘𝚝𝚝𝚘 : **𝙴𝚊𝚝, 𝙻𝚎𝚊𝚛𝚗, 𝙲𝚘𝚍𝚎, 𝚂𝚕𝚎𝚎𝚙, 𝚁𝚎𝚙𝚎𝚊𝚝**
 - 📃 𝙸𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚗𝚊 𝚜𝚎𝚎 𝚖𝚢 **𝚁𝚎𝚜𝚞𝚖𝚎** 𝚝𝚑𝚎𝚗, <a href="">**𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎!**</a>
 
-<br/>
-<br/>
- 
-<br>
 <!-- <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -92,7 +88,6 @@
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp"></code>
 <code><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r"></code>
 <br/>
-<br>
 <br>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="45" /> Github Stats :
