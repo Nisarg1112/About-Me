@@ -124,10 +124,10 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <h1>
-  Connect With Me
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
+  Connect With Me
 </h1>
 
 <p align="center">
