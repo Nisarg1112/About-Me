@@ -11,13 +11,30 @@
 </h1>
 <br>
 
+<p align="center">
+<!--   <img src="https://komarev.com/ghpvc/?username=Nisarg1112&color=brightgreen" alt="watching_count" /> -->
+<img src="https://img.shields.io/badge/Age-20-blue" />
+  
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development%20%26%20Machine%20Learning-brightgreen" />
+  
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  
+  <img src="https://img.shields.io/badge/In Relationship With-Python-success" />
+  
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
+  
+</p>
+<h3 align="center">Visitor's count :eyes:</h3>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Nisarg1112}/count.svg" alt="Nisarg1112 :: Visitor's Count" /></p>
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="45" /> About Me
 <a target="_blank">
   <img align="right" height="235" width="400" alt="GIF" src="image.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙰𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐** 
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙰𝚗𝚍 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **Jobs as Python Developer**
 - 💬 𝚃𝚊𝚕𝚔 𝚝𝚘 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙲𝚛𝚒𝚌𝚔𝚎𝚝, 𝙿𝚢𝚝𝚑𝚘𝚗** (𝚋𝚘𝚝𝚑 𝚘𝚏 𝚝𝚑𝚎𝚜𝚎 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚒𝚗𝚜𝚎𝚌𝚝 𝚘𝚛 𝚊𝚗𝚒𝚖𝚊𝚕𝚜), **𝚂𝚒𝚕𝚒𝚌𝚘𝚗 𝚅𝚊𝚕𝚕𝚎𝚢 & 𝚂𝚝𝚊𝚛𝚝𝚞𝚙𝚜**
@@ -26,21 +43,7 @@
 
 <br/>
 <br/>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nisarg1112&color=brightgreen" alt="watching_count" />
-  
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  
-  <img src="https://img.shields.io/badge/Lives-India-success" />
-  
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
-  
-</p>
-<h3 align="center">Visitor's count :eyes:</h3>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Nisarg1112}/count.svg" alt="Nisarg1112 :: Visitor's Count" /></p>
+ 
 <br>
 <!-- <details open="">
 <summary>
