@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
   
 </p>
-<h4 align="center">Visitor's count :eyes:</h4>
+<h3 align="center">Visitor's count :eyes:</h3>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Nisarg1112}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Nisarg1112}/count.svg" alt="Nisarg1112 :: Visitor's Count" /></p>
 <br>
 <!-- <details open="">
 <summary>
